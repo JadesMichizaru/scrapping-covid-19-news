@@ -1,8 +1,8 @@
 # SCRAPPING-COVID-19-NEWS
-Using Library & API Key From https://www.newsapi.org
+Using Library Python & API Key From https://www.newsapi.org
 
 ## Installation
-use the package manager [pip](https://pip.pypa.io/en/stable/) to install the package
+use the package manager [pip](https://pip.pypa.io/en/stable/) to install the library
 ```bash
         pip install csv
 
